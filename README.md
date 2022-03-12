@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://juicebubble.co.za/wp-content/uploads/2018/03/eat-sleep-code-grey.png" width="100%" height="500px" title="Intro Card" alt="Intro Card">
+  <img src="https://miro.medium.com/max/1200/1*sV60JhlYL4IdWjcNvKTJRA.png" width="100%" height="300px" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
