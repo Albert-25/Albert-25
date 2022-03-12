@@ -71,7 +71,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 
 
 ---
-### You can checkout my blogs :loudspeaker: 
+### You can checkout my Proyects:loudspeaker: 
 
 [![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
 
