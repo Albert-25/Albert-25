@@ -91,3 +91,9 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [instagram]: https://www.instagram.com/souravdey777/
 [linkedin]: https://www.linkedin.com/in/sourav-dey/
 [medium]: https://medium.com/@Souravdey777/
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ashwanisng/count.svg" />
+</p>
+
