@@ -45,12 +45,8 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 <h5 align="center">
   
   <code>
-    <a href="https://www.linkedin.com/in/albertosmith-developer/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn </a>
-  </code>
-  
-  <code>
-    <a href="https://github.com/Albert-25" title="Github"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"> Github </a>
-  </code>
+    <a href="https://www.linkedin.com/in/albertosmith-developer/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://github.com/Albert-25" title="Github"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"> Github</a></code>
   
 </h5>
 <br/>
