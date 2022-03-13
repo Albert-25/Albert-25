@@ -45,11 +45,11 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 <h5 align="center">
   
   <code>
-    <a href="https://www.linkedin.com/in/albertosmith-developer/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
+    <a href="https://www.linkedin.com/in/albertosmith-developer/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn </a>
   </code>
   
   <code>
-    <a href="https://github.com/Albert-25" title="Github"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg">Github</a>
+    <a href="https://github.com/Albert-25" title="Github"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"> Github </a>
   </code>
   
 </h5>
@@ -61,15 +61,11 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 
 [![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
 
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
+
 
 ---
 
-Let's connect 👨‍💻 and forge the future together.😁✌
 
-**Check the Repositories and don't forget to give a star.** 👇
-
-:star: From [Souravdey777](https://github.com/Souravdey777)
 
 [website]: https://souravdey777.github.io/Portfolio/
 [twitter]: https://twitter.com/Souravdey777
