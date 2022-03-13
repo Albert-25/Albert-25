@@ -21,9 +21,9 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 ---
 
 
-#### :computer: Programming languages and tools: 
+#### :computer: Programming languages and tools:
 
-
+<h5 align="center">
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width ="50px"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width ="50px"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width ="50px"/></a>
@@ -36,20 +36,22 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width ="50px" /></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width ="50px"/></a>
 <a href="#"></a>
-
+</h5>
 
 ---
 
 
 ### You can find in me in the web 🌍
 <h5 align="center">
+  
   <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/albertosmith-developer/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
+  </code>
+  
   <code>
-       <a href="https://github.com/Albert-25" title="Github"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg">Github</a>
-    </code>
+    <a href="https://github.com/Albert-25" title="Github"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg">Github</a>
+  </code>
+  
 </h5>
 <br/>
 
