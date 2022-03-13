@@ -21,7 +21,7 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 ---
 
 
-#### :computer: Programming languages and tools:
+### Programming languages and tools:computer:
 
 <h5 align="center">
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width ="50px"/></a>
@@ -53,7 +53,7 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 
 
 ---
-### You can checkout my Projects:loudspeaker: 
+### You can checkout my Projects, click on one:loudspeaker: 
 
 <a href="https://searchyourgame.vercel.app/home"><img src="https://i.ibb.co/J3m2yrf/videogames-app.png" alt="videogames-app" border="0" width="400px"></a>
 
