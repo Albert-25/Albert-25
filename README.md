@@ -55,7 +55,6 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 ---
 ### You can checkout my Projects:loudspeaker: 
 
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
 <a href="https://searchyourgame.vercel.app/home"><img src="https://i.ibb.co/J3m2yrf/videogames-app.png" alt="videogames-app" border="0" width="400px"></a>
 
 ---
