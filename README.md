@@ -2,7 +2,8 @@
   <img src="https://miro.medium.com/max/1200/1*sV60JhlYL4IdWjcNvKTJRA.png" width="100%" height="300px" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+As a Full Stack Developer, programming is one of my most charming hobbies, because through code I can create and build any idea I have in mind, and solve problems in different ways.
+I am very excited in the search to have my first experience in the IT world, apply all my knowledge and continue learning 💪
  
 
  📫 You can reach me ajst_25@outlook.com
