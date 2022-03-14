@@ -6,7 +6,7 @@ As a Full Stack Developer, programming is one of my most charming hobbies, becau
 I am very excited in the search to have my first experience in the IT world, apply all my knowledge and continue learning 💪
  
 
- 📫 You can reach me ajst_25@outlook.com
+ 📫 You can reach me ajst_95@outlook.com
  
  💬 Ask me about Javascript, React, Redux, Node, Express, Sequelize, PostgreSQL, Html, Css.
 
