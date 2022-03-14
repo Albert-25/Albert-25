@@ -4,7 +4,7 @@
 
 I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
- 
+
  📫 You can reach me ajst_25@outlook.com
  
  💬 Ask me about Javascript, React, Redux, Node, Express, Sequelize, PostgreSQL, Html, Css.
@@ -46,7 +46,7 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 
 
 ---
-### You can checkout my Projects, click on one:loudspeaker: 
+### You can checkout my Projects, click on one 👇: 
 
 <a href="https://searchyourgame.vercel.app/home"><img src="https://i.ibb.co/J3m2yrf/videogames-app.png" alt="videogames-app" border="0" width="400px"></a>
 
