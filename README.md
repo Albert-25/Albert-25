@@ -50,6 +50,7 @@ I am very excited in the search to have my first experience in the IT world, app
 ### You can checkout my Projects, click on one 👇: 
 
 <a href="https://searchyourgame.vercel.app/home"><img src="https://i.ibb.co/J3m2yrf/videogames-app.png" alt="videogames-app" border="0" width="400px"></a>
+<a href="https://github.com/Albert-25/Cinema-Manager-App"><img src="https://i.ibb.co/ngJGDB6/app-cine.png" alt="app-cine" border="0" width="400px"></a>
 
 ---
 
