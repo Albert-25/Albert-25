@@ -2,8 +2,7 @@
   <img src="https://miro.medium.com/max/1200/1*sV60JhlYL4IdWjcNvKTJRA.png" width="100%" height="300px" title="Intro Card" alt="Intro Card">
 </p>
 
-As a Full Stack Developer, programming is one of my most charming hobbies, because through code I can create and build any idea I have in mind, and solve problems in different ways.
-I am very excited in the search to have my first experience in the IT world, apply all my knowledge and continue learning 💪
+I am a Full Stack Node/React developer with over 1 year of experience. I am always open to learning new technologies and taking on new challenges.
  
 
  📫 You can reach me ajst_95@outlook.com
