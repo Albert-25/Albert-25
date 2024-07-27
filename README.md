@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/max/1200/1*sV60JhlYL4IdWjcNvKTJRA.png" width="100%" height="300px" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full Stack Node/React developer with over 1 year of experience. I am always open to learning new technologies and taking on new challenges 💪.
+I am a Full Stack Javascript Developer with over 1 year of experience. I am always open to learning new technologies and taking on new challenges 💪.
  
 
  📫 You can reach me ajst_95@outlook.com
