@@ -29,6 +29,9 @@ I am a Full Stack Javascript Developer with over 1 year of experience. I am alwa
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width ="50px"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width ="50px" /></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width ="50px"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width ="50px"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width ="50px"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width ="50px"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width ="50px"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width ="50px"/></a>
 <a href="#"></a>
