@@ -7,7 +7,7 @@ I am a Full Stack Javascript Developer with over 1 year of experience. I am alwa
 
  📫 You can reach me ajst_95@outlook.com
  
- 💬 Ask me about Javascript, React, Redux, Node, Express, Sequelize, PostgreSQL, Html, Css.
+ 💬 Ask me about Javascript, Typescript, React, Redux, Node, Express, Nest, Sequelize, TypeORM, PostgreSQL, MySql, Ubuntu, Html, Css.
 
 
 
