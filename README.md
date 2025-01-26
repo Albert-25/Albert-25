@@ -44,7 +44,7 @@ I am a Full Stack Javascript Developer with over 2 years of experience. I am alw
 <h5 align="center">
   
   <code>
-    <a href="https://www.linkedin.com/in/albertosmith-developer/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+    -- <a href="https://www.linkedin.com/in/albertosmith-developer/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://github.com/Albert-25" title="Github"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"> Github</a></code>
   
 </h5>
