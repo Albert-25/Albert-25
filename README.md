@@ -5,7 +5,8 @@
 I am a Full Stack Javascript Developer with over 2 years of experience. I am always open to learning new technologies and taking on new challenges 💪.
  
 
- 📫 You can reach me ajst_95@outlook.com
+  <!-- 📫 You can reach me ajst_95@outlook.com -->
+
  
  💬 Ask me about Javascript, Typescript, React, Redux, Node, Express, Nest, Sequelize, TypeORM, PostgreSQL, MySql, Ubuntu, Html, Css.
 
